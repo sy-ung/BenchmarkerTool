@@ -1,0 +1,8 @@
+﻿  CPUBenchmark.cpp
+g:\c++tools\benchmarker\benchmarker\cpubenchmark.cpp(17): warning C4477: 'printf' : format string '%I64d' requires an argument of type '__int64', but variadic argument 4 has type 'long'
+  g:\c++tools\benchmarker\benchmarker\cpubenchmark.cpp(17): note: consider using '%ld' in the format string
+g:\c++tools\benchmarker\benchmarker\cpubenchmark.cpp(17): warning C4473: 'printf' : not enough arguments passed for format string
+  g:\c++tools\benchmarker\benchmarker\cpubenchmark.cpp(17): note: placeholders and their parameters expect 6 variadic arguments, but 5 were provided
+  g:\c++tools\benchmarker\benchmarker\cpubenchmark.cpp(17): note: the missing variadic argument 6 is required by format string '%li'
+  Benchmarker.vcxproj -> G:\C++Tools\Benchmarker\x64\Debug\Benchmarker.exe
+  Benchmarker.vcxproj -> G:\C++Tools\Benchmarker\x64\Debug\Benchmarker.pdb (Partial PDB)
